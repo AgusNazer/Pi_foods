@@ -1,0 +1,14 @@
+# DB_USER=postgres
+# DB_PASSWORD=Alma2022
+# DB_HOST=localhost:5432
+# API_KEY = 58161130ecad4f7cba857955dd2bad01
+# DB_DEPLOY = postgresql://postgres:b61OvHOrahJOiATV7q4u@containers-us-west-42.railway.app:6002/railway
+# PORT = 3001  
+
+# hostinger
+DB_USER=postgres
+DB_PASSWORD=Alma2022
+DB_HOST=147.93.8.200
+DB_PORT=5432
+DB_NAME=pifood
+DB_DEPLOY=postgresql://postgres:Alma2022@147.93.8.200:5432/pifood
